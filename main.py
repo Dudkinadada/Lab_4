@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 import requests
 
-# Вставь свой Telegram Bot API токен
+
 TOKEN = '7551484776:AAEDioTRxrxHDBrWn-oaennFDr1-KTvZ_UQ'
 
 # API-ключ TheSportsDB
