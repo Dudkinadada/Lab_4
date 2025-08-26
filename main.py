@@ -4,10 +4,9 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 import requests
 
 
-TOKEN = '7551484776:AAEDioTRxrxHDBrWn-oaennFDr1-KTvZ_UQ'
+TOKEN = 'TELEGRAM_BOT_TOKEN'
 
-# API-ключ TheSportsDB
-API_KEY = '3'
+API_KEY = 'API_KEY TheSportsDB'
 
 
 # Функция для поиска команды
