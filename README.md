@@ -75,7 +75,7 @@ The bot will start and begin polling for messages. Keep the terminal open to kee
 
 ```
 .
-├── bot.py          # Main bot application
+├── main.py          # Main bot application
 └── README.md       # This documentation
 ```
 
